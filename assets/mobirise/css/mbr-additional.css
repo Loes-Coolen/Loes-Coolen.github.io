@@ -1724,12 +1724,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s064N5HOSO {
-  background: #ffffff;
-  background: linear-gradient(0deg, #ffffff, #0a2246);
+  background: #d0e6d4;
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #d0e6d4, #0a2246);
 }
 .cid-s064N5HOSO .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s064N5HOSO .video-block {
