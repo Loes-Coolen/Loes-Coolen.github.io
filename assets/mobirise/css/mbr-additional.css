@@ -1499,3 +1499,23 @@ section.lazy-placeholder:after {
 .cid-s0hE9JkBZu a.img {
   pointer-events: none;
 }
+.cid-s0ipRHPtAw {
+  background: #ffffff;
+}
+.cid-s0ipRHPtAw .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-s0ipRHPtAw figcaption {
+  position: relative;
+}
+.cid-s0ipRHPtAw figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s0ipRHPtAw .image-block {
+    width: 100% !important;
+  }
+}
