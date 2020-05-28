@@ -1542,11 +1542,10 @@ section.lazy-placeholder:after {
 }
 .cid-s0iAkGF503 {
   background: #073b4c;
-  padding-top: 30px;
-  padding-bottom: 45px;
 }
 .cid-s0iAkGF503 .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-s0iAkGF503 figcaption {
   position: relative;
