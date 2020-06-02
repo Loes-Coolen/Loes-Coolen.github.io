@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap);
 
 
 
@@ -41,12 +42,12 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.88rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,12 +548,12 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.88rem;
 }
 blockquote {
   border-color: #458a48;
@@ -909,13 +910,16 @@ section.lazy-placeholder:after {
 .cid-s0d7Se228q {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f2f3dc;
+  background-color: #073b4c;
 }
 .cid-s0d7Se228q .mbr-text {
-  color: #366338;
+  color: #efefef;
+}
+.cid-s0d7Se228q .mbr-text P {
+  text-align: center;
 }
 .cid-s0iy8EUjnv {
-  background: #f2f3dc;
+  background: #073b4c;
   padding-top: 0px;
   padding-bottom: 45px;
 }
