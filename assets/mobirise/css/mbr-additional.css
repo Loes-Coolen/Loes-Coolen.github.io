@@ -860,11 +860,10 @@ section.lazy-placeholder:after {
 }
 .cid-s0MKORBYVf {
   background: #f2f3dc;
-  padding-top: 60px;
-  padding-bottom: 0px;
 }
 .cid-s0MKORBYVf .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s0MKORBYVf .video-block {
